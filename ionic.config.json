@@ -1,0 +1,8 @@
+{
+  "name": "luiz-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "07931b20"
+}
